@@ -1,0 +1,19 @@
+body {
+  font-family: Arial;
+
+}
+a {
+  color: #bb0000;
+}
+p {
+  margin: 0;
+}
+h2 {
+  margin-bottom: 15px;
+}
+ol {
+  margin: 0;
+}
+ol + p {
+    margin-bottom: 10px;
+}
